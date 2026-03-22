@@ -2,5 +2,5 @@ import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
 export default defineConfig({
   plugins: [vue()],
-  base: '/book-manager/' // тут название репозитория
+  base: '/vue/' // тут название репозитория
 })
